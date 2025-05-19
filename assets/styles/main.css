@@ -1,0 +1,10 @@
+.subscribe-button {
+    background: #007bff;
+    padding: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.subscribe-button:hover {
+    background: #0056b3;
+}
